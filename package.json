@@ -1,16 +1,13 @@
 {
-  "name": "dragon-ball-style-components",
+  "name": "example-react-components",
   "version": "1.0.0",
-  "description": "React components in the style of DragonBall",
+  "description": "use typescript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "tsc && echo 'Finished building NPM package'"
   },
-  "keywords": [
-    "react components",
-    "dragon ball"
-  ],
+  "keywords": [],
   "author": "jedrzejczak <jedrzejczak.andrzej89@gmail.com> (https://github.com/jedrzejczak)",
   "license": "ISC",
   "types": "index.d.ts",
